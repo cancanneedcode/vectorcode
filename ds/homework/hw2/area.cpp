@@ -6,10 +6,10 @@ int main(){
 	int n,a,b,shu[150],min,min1,max,max1,minmost,area[150],maxarea=0,count;
 	//Queue<int> myqueue;
 	//Queue<int> myqueue1;
-	//scanf("%d",&b);
+	scanf("%d",&b);
 	for(int i=0;i<10;i++){
 		for(int k=0;k<b;k++){
-			b=rand()%15+1;
+			//b=rand()%150+1;
 			a=rand()%150+1;
 			shu[k]=a;
 			//myqueue.enqueue(a);
