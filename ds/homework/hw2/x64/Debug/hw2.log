@@ -1,0 +1,5 @@
+﻿  hw2.cpp
+C:\Users\21997\Desktop\ds\homework\hw2\hw2.cpp(107,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\21997\Desktop\ds\homework\hw2\hw2.cpp(111,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\21997\Desktop\ds\homework\hw2\hw2.cpp(113,5): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\21997\Desktop\ds\homework\hw2\hw2.cpp(217,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
