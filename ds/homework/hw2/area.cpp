@@ -9,7 +9,7 @@ int main(){
 	//scanf("%d",&b);
 	for(int i=0;i<10;i++){
 		for(int k=0;k<b;k++){
-			b=rand()%150+1;
+			b=rand()%15+1;
 			a=rand()%150+1;
 			shu[k]=a;
 			//myqueue.enqueue(a);
