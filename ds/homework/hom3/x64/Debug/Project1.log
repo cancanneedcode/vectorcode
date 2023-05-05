@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\21997\Desktop\huffman\hom3\huffmanTree.h(85,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\21997\Desktop\huffman\hom3\huffmanTree.h(185,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\21997\Desktop\huffman\hom3\x64\Debug\Project1.exe
